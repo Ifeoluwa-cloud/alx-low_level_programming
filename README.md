@@ -1,1 +1,1 @@
-Even more about arrays and strings:
+Even more about arrays and strings
